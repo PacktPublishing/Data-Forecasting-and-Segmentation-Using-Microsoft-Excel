@@ -57,3 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
   
 ## Get to Know the Author
 **Fernando Roque** has 24 years of experience in working with statistics for quality control and financial risk assessment of projects after planning, budgeting, and execution. In his work, Fernando applies Python k-means and time series machine learning algorithms, using Normalized Difference Vegetation Index (NDVI) drone images to find crop regions with more resilience to droughts. He also applies time series and k-means algorithms for supply chain management (logistics) and inventory planning for seasonal demand.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803247731">https://packt.link/free-ebook/9781803247731 </a> </p>
